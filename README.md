@@ -30,4 +30,5 @@ Libraries:
 * matplotlib.pyplot 
 * sklearn.model_selection 
 * xgboost  <br />
-*Final core:* ROC score is 0.832515959891958
+
+*Final score:* ROC score is 0.832515959891958
