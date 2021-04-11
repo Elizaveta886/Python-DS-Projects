@@ -14,7 +14,7 @@ Libraries:
 * xgboost
 * factor_analyzer  <br />
 
-*Final Kaggle score:* 0.16
+*Final Kaggle score:* 0.13986
 
 **Stepik_ML_contest_git**  <br />
 Stepik ML contest (https://stepik.org/lesson/226979/step/1?unit=199528). 
