@@ -1,7 +1,7 @@
 # Python-DS-Projects
 Kaggle competition files primarily
 
-**House Price_git** <br />
+**House Prices_git** <br />
 House Prices Kaggle competition (https://www.kaggle.com/c/house-prices-advanced-regression-techniques). <br />
 Factor Analysis, Random Forest, and XGBoost were used. <br />
 Libraries: 
@@ -32,3 +32,16 @@ Libraries:
 * xgboost  <br />
 
 *Final score:* ROC score is 0.8492846124721055
+
+**Tweet_git** <br />
+Natural Language Processing with Disaster Tweets Kaggle competition (https://www.kaggle.com/c/nlp-getting-started). <br />
+Lemmatisation, TF-IDF Vectorizer, SVM were used. <br />
+Libraries: 
+* pandas
+* numpy
+* sklearn: model_selection, svm, metrics, TfidfVectorizer
+* string
+* re
+* nltk: WordNetLemmatizer<br />
+ 
+*Final Kaggle score:* 0.79650
