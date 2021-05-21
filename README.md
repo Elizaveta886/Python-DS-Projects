@@ -16,6 +16,8 @@ Libraries:
 
 *Final Kaggle score:* 0.13986
 
+_______________________________________________________________________________________________________________
+
 **Stepik_ML_contest_git**  <br />
 Stepik ML contest (https://stepik.org/lesson/226979/step/1?unit=199528). 
 Stepik is a Russian open online course provider.
