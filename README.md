@@ -1,5 +1,4 @@
 # Python-DS-Projects
-Kaggle competition files primarily
 
 **House Prices_git** <br />
 House Prices Kaggle competition (https://www.kaggle.com/c/house-prices-advanced-regression-techniques). <br />
