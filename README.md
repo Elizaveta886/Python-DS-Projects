@@ -18,7 +18,7 @@ Libraries:
 ______________________________________________________________________________________________________________________________________________________________________________________
 
 **Stepik_ML_contest_git**  <br />
-Stepik ML contest (https://stepik.org/lesson/226979/step/1?unit=199528). 
+[Stepik ML contest](https://stepik.org/lesson/226979/step/1?unit=199528). 
 Stepik is a Russian open online course provider.
 The purpose of the competition was to predict the final result for each student (1 - the course would be completed, 0 - the course would be dropped). <br />
 XGBoost, k-fold cross-validation were used. <br />
@@ -37,7 +37,7 @@ Libraries:
 ______________________________________________________________________________________________________________________________________________________________________________________
 
 **Tweet_git** <br />
-Natural Language Processing with Disaster Tweets Kaggle competition (https://www.kaggle.com/c/nlp-getting-started). <br />
+[Natural Language Processing with Disaster Tweets Kaggle competition](https://www.kaggle.com/c/nlp-getting-started). <br />
 Lemmatisation, TF-IDF Vectorizer, SVM were used. <br />
 Libraries: 
 * pandas
