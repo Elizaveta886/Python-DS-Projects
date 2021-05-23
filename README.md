@@ -1,7 +1,7 @@
 # Python-DS-Projects
 
 **House Prices_git** <br />
-[House Prices Kaggle competition] (https://www.kaggle.com/c/house-prices-advanced-regression-techniques). <br />
+[House Prices Kaggle competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques). <br />
 Factor Analysis, Random Forest, and XGBoost were used. <br />
 Libraries: 
 * pandas
